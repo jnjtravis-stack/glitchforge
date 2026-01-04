@@ -1,0 +1,11 @@
+some stuff are needed
+so uhhhhh heres the entire list of imports ig
+discord
+asyncio
+os
+uuid
+subprocess
+functools
+time
+string
+psutil
